@@ -10,5 +10,10 @@
 
   <h3>Próposito da criação do projeto</h3>
   <p>--Treinar o aprendizado do módulo de firebase que estou praticando no meu curso de React JS</p> <br/>
-  <p>Aprender sempre funcionalidades novas e treinar o tipo de mentalidade que um programador júnior deveria ter, que seria: Programar, se não conseguir resolver, buscar a solução e por último pedir ajuda se for necessário</p>
+  <p>Aprender sempre funcionalidades novas e treinar o tipo de mentalidade que um programador júnior deveria ter, que seria:</p>
+  <ul>
+    <li>Programar</li>
+    <li>Caso não conseguisse resolver, pesquisar uma solução para entregar o sistema em funcionamento para o cliente.</li>
+    <li>Por último, pedir ajuda caso não conseguisse nenhuma solução e isso fosse afetar o seu time inteiro.</li>
+  </ul>
 </div>

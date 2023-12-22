@@ -16,4 +16,10 @@
     <li>Caso não conseguisse resolver, pesquisar uma solução para entregar o sistema em funcionamento para o cliente.</li>
     <li>Por último, pedir ajuda caso não conseguisse nenhuma solução e isso fosse afetar o seu time inteiro.</li>
   </ul>
+
+  <h3>Quais bibliotecas usei neste projeto?</h3>
+  <ul>
+    <li>React Toastfy (Serviu para fazer o sistema de notificação)</li>
+    <li>React-Router-dom (Serviu para fazer as rotas do sistema)</li>
+  </ul>
 </div>

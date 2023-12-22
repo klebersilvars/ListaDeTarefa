@@ -1,0 +1,89 @@
+:root {
+    --corPadrao: #616668;
+    --corButton: #3ec9a7;
+    --corTexto: #98d9b6;
+}
+
+.home-container {
+    height: 100vh;
+    width: 100%;
+    background-color: #616668;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.home-container > h2 {
+    color: white;
+    font-size: 32px;
+}
+
+.box-container-login {
+
+    width: 700px;
+    height: 400px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.box-container-login > label {
+    font-weight: bold;
+    font-size: 19px;
+
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2em;
+}
+
+.input-email, .input-password {
+    width: 50%;
+    height: 36px;
+
+    outline: none;
+
+    font-size: 17px;
+    border-radius: 3px;
+    border: none;
+    padding-left: 3px;
+
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.397);
+}
+
+.link-register {
+    color: var(--corTexto);
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+
+.box-container-login > button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: var(--corButton);
+    width: 50%;
+    height: 36px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.37);
+    font-weight: bold;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.input-checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2em;
+}
